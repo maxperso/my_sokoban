@@ -1,5 +1,6 @@
 # MY_SOKOBAN
 **`1st year project with NCurses library`**
+<br />
 {EPITECH} The goal of this project is to develop a copy of Sokoban game in terminal mode, using the ncurses library.
 
 ## REQUIREMENTS
@@ -37,4 +38,15 @@ $>  ./my_sokoban -h
 ![](screenshot/sokoban_game.png)
 
 ## Coverage
+
+- 01 - usage and input checks (75%)
+- 02 - basic moves (100%)
+- 03 - basic collisions and box on targets (50%)
+- 04 - intermediate moves and collisions (83,3%)
+- 05 - intermediate maps tests (75%)
+- 06 - intermediate winning and losing conditions (0%)
+- 07 - final moves and collisions (83,3%)
+- 08 - final maps tests (50%)
+- 09 - final winning and losing conditions (0%)
+
 ![](screenshot/my_epitech.png)
